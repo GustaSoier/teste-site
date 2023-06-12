@@ -1,0 +1,28 @@
+flex-direction
+
+row = na direção do texto (esquerda)
+row-reverse = o oposto do row (direita)
+column = modo coluna de cima pra baixo 
+column-reverse = modo coluna de baixo pra cima
+
+justify-content
+
+flex-start = os itens são alinhados para o lado esquerdo
+flex-end = lado direito
+center = centro da tela
+space-between = preenche o espaço entre eles (0 | 0 | 0)
+space-around = deixa o espaço entre eles igualmente
+
+align-items
+
+flex-start = vai para o topo(da esquerda pra direita)
+flex-end = vai para o rodapé (esquerda pra direita)
+center = vai pro centro vertical (esquerda pra direita)
+baseline = vai pro lugar da base da tela
+stretch = é preenchido na tela
+
+flex-flow = usa duas propriedades(wrap, flex-start, flex-end, etc.)
+
+align-content = parecido com o justify, porém serve pra amontoar os itens no topo, direita, esquerda, rodapé, etc.)
+
+

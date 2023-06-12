@@ -1,0 +1,15 @@
+	Nav = uma navegação importante
+	
+	UL = uma forma de listagem, porém, com a ordem não especifica, ou seja, não importa quem vem dps do primeiro ou segundo.
+
+	Li = serve para listar
+
+	A = colocar um hyperlink/link
+	
+	Tag = é como se chama os comandos.
+	
+	h1-6 = Título e sub-títulos(h2-6)
+
+	header = como se fosse uma caixa (begin e end)
+
+	exemplo>ex2*3 = criação de múltiplas tags(exemplo como primária, dentro da exemplo tem a ex2 que será repetida 3 vezes.)

@@ -1,0 +1,15 @@
+Topo = 140px
+1920 Extensão da página ao todo
+1200 centralizada 
+Banner = 1920
+Serviços = 300 largura.
+margem = 40 px
+
+galeria de imagens.
+
+Depoimentos = 500 px
+
+Blog 
+
+Sub - Menu / Links de serviços acoplado / redes sociais e contatos
+
